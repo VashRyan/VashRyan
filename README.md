@@ -16,7 +16,7 @@ London, UK · [LinkedIn](https://www.linkedin.com/in/auvash-ryan) · [TryHackMe]
 
 ## Technical Areas
 
-Windows • Linux • Active Directory • Networking • Splunk • Elastic • Microsoft Sentinel
+Windows • Linux • Active Directory • Networking • Splunk • Elastic • Microsoft Sentinel •
 Microsoft Defender • Wireshark • Nmap • Burp Suite • Vulnerability Scanning • Endpoint Security
 
 ## Currently Developing
