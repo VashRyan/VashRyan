@@ -38,4 +38,4 @@ Microsoft Defender • Wireshark • Nmap • Burp Suite • Vulnerability Scann
 
 ## Portfolio
 
-SOC investigations and technical projects are available below.
+SOC investigations and technical projects are available in my repositories. 
